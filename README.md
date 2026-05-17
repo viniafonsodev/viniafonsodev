@@ -165,13 +165,13 @@ const usuario = {
 <!--              FEATURED PROJECTS · REPOS FIXADOS                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🚀 Featured Projects · Projetos em Destaque
+## 🚀 Projetos em Destaque
 
 > Pin seus 6 melhores repos via **"Customize your pins"** no seu perfil do GitHub.
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/projetoOBJ)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_2)
 
@@ -183,7 +183,7 @@ const usuario = {
 
 <div align="center">
 
-### 📡 Follow Me On · Me Siga Em
+### 📡 Me Siga Em
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniafonsodev)
