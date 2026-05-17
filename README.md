@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 👋 Hey there! I'm Vinicius
+# 👋 Hello World! I'm Vinícius
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Desenvolvedor+JavaScript+Full-Stack+%F0%9F%9A%80;ADS+%E2%80%94+Analise+e+Desenvolvimento+de+Sistemas;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Aberto+a+novas+oportunidades+%F0%9F%8C%8D" alt="Typing SVG" />
@@ -146,7 +146,7 @@ const usuario = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/projetoOBJ)
+[![Readme Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/projetoOBJ)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_2)
 
