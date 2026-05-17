@@ -57,12 +57,12 @@ const usuario = {
 
 <br/>
 
-🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas** pelo Mackenzie
-💻 &nbsp; Desenvolvo soluções **JavaScript Full-Stack** de APIs REST a interfaces reativas, iniciando também no C#/.NET
-📚 &nbsp; 10+ projetos no GitHub — profundidade acadêmica encontra criatividade prática
-🤝 &nbsp; Me pergunte sobre **JS, React, Node.js ou TypeScript**
-🌱 &nbsp; Sempre aprendendo — atualmente mergulhando em **C# / .NET** & **Engenharia da Computação**
-⚡ &nbsp; Fluente em Inglês e Espanhol
+<p>🎓 &nbsp; Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo Mackenzie</p>
+<p>💻 &nbsp; Desenvolvo soluções <strong>JavaScript Full-Stack</strong> de APIs REST a interfaces reativas, iniciando também no C#/.NET</p>
+<p>📚 &nbsp; 10+ projetos no GitHub — profundidade acadêmica encontra criatividade prática</p>
+<p>🤝 &nbsp; Me pergunte sobre <strong>JS, React, Node.js ou TypeScript</strong></p>
+<p>🌱 &nbsp; Sempre aprendendo — atualmente mergulhando em <strong>C# / .NET</strong> & <strong>Engenharia da Computação</strong></p>
+<p>⚡ &nbsp; Fluente em Inglês e Espanhol</p>
 
 ---
 
