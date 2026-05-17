@@ -25,7 +25,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.afonsodev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+![Visitor Count](https://komarev.com/ghpvc/?username=viniafonsodev&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
 
 </div>
 
@@ -45,15 +45,14 @@ const usuario = {
   localização: "São Paulo/SP - 🇧🇷",
 
   stack: {
-    frontend: ["React", "TypeScript", "Tailwind CSS"],
-    backend:  ["Node.js", "Express", "REST APIs"],
+    frontend: ["React", "Tailwind CSS"],
+    backend:  ["Node.js", "REST APIs"],
     database: ["PostgreSQL", "MongoDB"],
   },
 
   currentlyLearning: ["Design de Sistemas", "Ecosistema C#"],
   openTo:            ["Full-time", "Open Source"],
-  funFact:           "I debug with console.log and I'm not ashamed 🎯",
-};
+  };
 ```
 
 <br/>
@@ -75,19 +74,19 @@ const usuario = {
 <div align="center">
 
 ### 💬 Linguagens
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bash&theme=dark" />
 
 ### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,reactnative&theme=dark" />
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,c#,postman&theme=dark" />
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,&theme=dark" />
 
 ### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" />
 
 </div>
 
@@ -102,13 +101,10 @@ const usuario = {
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
@@ -130,15 +126,15 @@ const usuario = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api?username=viniafonsodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniafonsodev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
     </td>
   </tr>
 </table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7c45&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=viniafonsodev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7c45&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
@@ -155,7 +151,7 @@ const usuario = {
 <table>
   <tr>
     <td width="55%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=SEU_USERNAME&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
+      <img src="https://github-contributor-stats.vercel.app/api?username=viniafonsodev&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
     </td>
     <td width="45%" align="center">
       <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
@@ -175,9 +171,9 @@ const usuario = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/SEU_USERNAME/NOME_DO_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_1)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/SEU_USERNAME/NOME_DO_REPO_2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_2)
 
 </div>
 
@@ -190,7 +186,7 @@ const usuario = {
 ### 📡 Follow Me On · Me Siga Em
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniafonsodev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
