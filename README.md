@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# 👋 Hey there! I'm Usuário
+# 👋 Hey there! I'm Vinicius
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+JavaScript+Developer+🚀;ADS+—+Análise+e+Desenvolvimento+de+Sistemas;React+|+Next.js+|+Node.js+|+TypeScript;Open+to+new+opportunities+🌍" alt="Typing SVG" />
@@ -35,37 +35,35 @@
 <!--                         ABOUT ME                              -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🧑‍💻 About Me · Sobre Mim
+## 🧑‍💻 About Me
 
 ```javascript
 const usuario = {
-  name:     "Usuário",
-  degree:   "B.Sc. Análise e Desenvolvimento de Sistemas",
-  role:     "Full-Stack JavaScript Developer",
-  location: "Brasil 🇧🇷",
+  nome:     "Vinicius Viana",
+  graduação:   "Tecnologia Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie",
+  cargo:     "Full-Stack JavaScript Developer",
+  localização: "São Paulo/SP - 🇧🇷",
 
   stack: {
-    frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+    frontend: ["React", "TypeScript", "Tailwind CSS"],
     backend:  ["Node.js", "Express", "REST APIs"],
     database: ["PostgreSQL", "MongoDB"],
-    devops:   ["Docker", "GitHub Actions", "CI/CD"],
   },
 
-  currentlyLearning: ["System Design", "Cloud Architecture"],
-  openTo:            ["Freelance", "Full-time", "Open Source"],
+  currentlyLearning: ["Design de Sistemas", "Ecosistema C#"],
+  openTo:            ["Full-time", "Open Source"],
   funFact:           "I debug with console.log and I'm not ashamed 🎯",
 };
 ```
 
 <br/>
 
-🎓 &nbsp;Graduated in **Análise e Desenvolvimento de Sistemas** — strong CS fundamentals
-💻 &nbsp;I craft **full-stack JavaScript** solutions from REST APIs to reactive UIs
-🐳 &nbsp;Passionate about **containerization** and clean, maintainable code
-📚 &nbsp;10+ projects on GitHub — academic depth meets real-world creativity
-🤝 &nbsp;Ask me about **React, Node.js, TypeScript, Docker or PostgreSQL**
-🌱 &nbsp;Always learning — currently diving into **System Design & Cloud**
-⚡ &nbsp;Fun fact: I believe great software is 20% code and 80% thinking
+🎓 &nbsp; Graduado em **Análise e Desenvolvimento de Sistemas** pelo Mackenzie
+💻 &nbsp; Desenvolvo soluções **JavaScript Full-Stack** de APIs REST a interfaces reativas, iniciando também no C#/.NET
+📚 &nbsp; 10+ projetos no GitHub — profundidade acadêmica encontra criatividade prática
+🤝 &nbsp; Me pergunte sobre **JS, React, Node.js ou TypeScript**
+🌱 &nbsp; Sempre aprendendo — atualmente mergulhando em **C# / .NET** & **Engenharia da Computação**
+⚡ &nbsp; Fluente em Inglês e Espanhol
 
 ---
 
@@ -73,21 +71,20 @@ const usuario = {
 <!--                        LANGUAGES & TOOLS                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-## 🛠️ Languages & Tools I Work With
-
+## 🛠️ Linguagens e Ferramentas que tive contato
 <div align="center">
 
-### 💬 Languages
+### 💬 Linguagens
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,bash&theme=dark" />
 
 ### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" />
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,&theme=dark" />
 
 ### ⚙️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,linux&theme=dark" />
@@ -107,7 +104,6 @@ const usuario = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -169,36 +165,6 @@ const usuario = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    ACTIVITY GRAPH                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USERNAME&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7c45&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         TROPHIES                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🎖️ GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SEU_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              FEATURED PROJECTS · REPOS FIXADOS                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -241,6 +207,6 @@ const usuario = {
 
 _"First, solve the problem. Then, write the code."_ — John Johnson
 
-**Made with 💙 and lots of ☕ · Feito com 💙 e muito ☕**
+**Feito com muito café ☕**
 
 </div>
