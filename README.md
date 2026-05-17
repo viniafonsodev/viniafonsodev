@@ -74,13 +74,13 @@ const usuario = {
 <div align="center">
 
 ### 💬 Linguagens
-<img src="https://skillicons.dev/icons?i=js,c#,py,java,arduino,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,py,java,arduino,bash&theme=dark" />
 
 ### ⚛️ Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,express&theme=dark" />
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" />
