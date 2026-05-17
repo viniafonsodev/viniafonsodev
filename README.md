@@ -74,19 +74,19 @@ const usuario = {
 <div align="center">
 
 ### 💬 Linguagens
-<img src="https://skillicons.dev/icons?i=js,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,c#,py,java,arduino,bash&theme=dark" />
 
 ### ⚛️ Frontend
-<img src="https://skillicons.dev/icons?i=react,reactnative&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
 
 ### 🔧 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,c#,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,cs,dotnet&theme=dark" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" />
 
 ### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,gcp&theme=dark" />
 
 </div>
 
@@ -171,7 +171,7 @@ const usuario = {
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_1)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_2)
 
