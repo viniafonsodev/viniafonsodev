@@ -138,40 +138,15 @@ const usuario = {
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--            TOP CONTRIBUTED REPOS  +  RANDOM DEV QUOTE         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🏆 Top Contributed Repos &nbsp;·&nbsp; 💬 Random Dev Quote
-
-<div align="center">
-
-<table>
-  <tr>
-    <td width="55%">
-      <img src="https://github-contributor-stats.vercel.app/api?username=viniafonsodev&limit=5&theme=github_dark&combine_all_yearly_contributions=true&hide_border=true" />
-    </td>
-    <td width="45%" align="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" />
-    </td>
-  </tr>
-</table>
-
-</div>
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--              FEATURED PROJECTS · REPOS FIXADOS                -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 ## 🚀 Projetos em Destaque
 
-> Pin seus 6 melhores repos via **"Customize your pins"** no seu perfil do GitHub.
-
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ_1&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/projetoOBJ)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=projetoOBJ&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/projetoOBJ)
 &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=viniafonsodev&repo=NOME_DO_REPO_2&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/viniafonsodev/NOME_DO_REPO_2)
 
@@ -185,7 +160,7 @@ const usuario = {
 
 ### 📡 Me Siga Em
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniafonsodev/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/viniafonsodev)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
