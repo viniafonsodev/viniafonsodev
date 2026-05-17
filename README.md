@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1a3a5c&height=220&section=header&text=Usuário&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20JavaScript%20Developer%20%7C%20ADS%20Graduate&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1a3a5c&height=220&section=header&text=Vinícius&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20JavaScript%20%7C%20Analista%20de%20Sistemas%20&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -15,14 +15,14 @@
 # 👋 Hey there! I'm Vinicius
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full-Stack+JavaScript+Developer+🚀;ADS+—+Análise+e+Desenvolvimento+de+Sistemas;React+|+Next.js+|+Node.js+|+TypeScript;Open+to+new+opportunities+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Desenvolvedor+JavaScript+Full-Stack+%F0%9F%9A%80;ADS+%E2%80%94+Analise+e+Desenvolvimento+de+Sistemas;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Aberto+a+novas+oportunidades+%F0%9F%8C%8D" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniafonsodev/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vini.afonsodev@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SEU_USERNAME&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
