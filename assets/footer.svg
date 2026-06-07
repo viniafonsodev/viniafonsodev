@@ -1,0 +1,116 @@
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0005"/>
+      <stop offset="50%" stop-color="#12000a"/>
+      <stop offset="100%" stop-color="#0a0005"/>
+    </linearGradient>
+    <linearGradient id="lineGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#0a0005" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#ff003c"/>
+      <stop offset="70%"  stop-color="#ff003c"/>
+      <stop offset="100%" stop-color="#0a0005" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow-red2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-soft2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glow-particle2" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <radialGradient id="centerGlow2" cx="50%" cy="0%" r="80%">
+      <stop offset="0%"   stop-color="#ff003c" stop-opacity="0.07"/>
+      <stop offset="100%" stop-color="#0a0005" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- fundo -->
+  <rect width="800" height="120" fill="url(#bg2)"/>
+  <rect width="800" height="120" fill="url(#centerGlow2)"/>
+
+  <!-- grade de pontos -->
+  <pattern id="grid2" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.8" fill="#ff003c" opacity="0.1"/>
+  </pattern>
+  <rect width="800" height="120" fill="url(#grid2)"/>
+
+  <!-- linhas horizontais -->
+  <line x1="0" y1="40" x2="800" y2="40" stroke="#ff003c" stroke-width="0.3" opacity="0.06"/>
+  <line x1="0" y1="80" x2="800" y2="80" stroke="#ff003c" stroke-width="0.3" opacity="0.06"/>
+
+  <!-- linha superior pulsante -->
+  <rect x="80" y="18" width="640" height="0.5" fill="url(#lineGrad2)">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- partículas grandes -->
+  <circle cx="50"  cy="90" r="2.5" fill="#ff003c" opacity="0.7" filter="url(#glow-particle2)">
+    <animate attributeName="cy" values="90;70;90" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.7;0.1;0.7" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="80" r="2"   fill="#ff003c" opacity="0.6" filter="url(#glow-particle2)">
+    <animate attributeName="cy" values="80;60;80" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.6;0.1;0.6" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="30" r="2"   fill="#ff003c" opacity="0.5" filter="url(#glow-particle2)">
+    <animate attributeName="cy" values="30;15;30" dur="6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="600" cy="25" r="2.5" fill="#ff6680" opacity="0.5" filter="url(#glow-soft2)">
+    <animate attributeName="cy" values="25;10;25" dur="4.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0.1;0.5" dur="4.5s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- partículas pequenas -->
+  <circle cx="100" cy="60" r="1.2" fill="#ff003c" opacity="0.4">
+    <animate attributeName="cy" values="60;45;60" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="300" cy="95" r="1"   fill="#ff6680" opacity="0.35">
+    <animate attributeName="cy" values="95;80;95" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="420" cy="30" r="1.5" fill="#ff003c" opacity="0.4">
+    <animate attributeName="cy" values="30;15;30" dur="4.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.4;0.05;0.4" dur="4.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="85" r="1.2" fill="#ff003c" opacity="0.35">
+    <animate attributeName="cy" values="85;70;85" dur="3.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;0.05;0.35" dur="3.8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="680" cy="50" r="1"   fill="#ff6680" opacity="0.3">
+    <animate attributeName="cy" values="50;35;50" dur="5.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.05;0.3" dur="5.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="360" cy="70" r="1"   fill="#ff003c" opacity="0.3">
+    <animate attributeName="cy" values="70;55;70" dur="2.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0.05;0.3" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- citação -->
+  <text x="400" y="52" fill="#ff6680" font-size="12"
+        text-anchor="middle" font-family="monospace"
+        filter="url(#glow-soft2)" opacity="0.7">
+    "Primeiro, resolva o problema. Depois, escreva o código."
+    <animate attributeName="opacity" values="0;0.7" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- assinatura -->
+  <text x="400" y="76" fill="#ff003c" font-size="13"
+        text-anchor="middle" font-family="monospace" font-weight="bold"
+        filter="url(#glow-red2)" opacity="0.82">
+    Feito com muito ☕ · Vinícius
+    <animate attributeName="opacity" values="0;0.82" dur="1s" begin="0.6s" fill="freeze"/>
+  </text>
+
+  <!-- barra superior pulsante -->
+  <rect x="0" y="0" width="800" height="3" fill="#ff003c" opacity="0.35">
+    <animate attributeName="opacity" values="0.1;0.6;0.1" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+</svg>

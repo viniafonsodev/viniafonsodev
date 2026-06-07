@@ -40,7 +40,7 @@
 ```javascript
 const usuario = {
   nome:     "Vinicius Viana",
-  graduação:   "Tecnologia Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie",
+  graduação:   "Análise e Desenvolvimento de Sistemas - Universidade Presbiteriana Mackenzie",
   cargo:     "Full-Stack JavaScript Developer",
   localização: "São Paulo/SP - 🇧🇷",
 
@@ -57,8 +57,8 @@ const usuario = {
 
 <br/>
 
-<p>🎓 &nbsp; Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Presbiteriaan Mackenzie</p>
-<p>💻 &nbsp; Desenvolvo soluções <strong>JavaScript Full-Stack</strong> de APIs REST a interfaces reativas, iniciando também no C#/.NET</p>
+<p>🎓 &nbsp; Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Presbiteriana Mackenzie</p>
+<p>💻 &nbsp; Desenvolvendo soluções <strong>JavaScript Full-Stack</strong> de APIs REST a interfaces reativas, iniciando também no C#/.NET</p>
 <p>📚 &nbsp; 10+ projetos no GitHub</p>
 <p>🤝 &nbsp; Me pergunte sobre <strong>JS, React, Node.js ou TypeScript</strong></p>
 <p>🌱 &nbsp; Sempre aprendendo — atualmente mergulhando em <strong>C# / .NET</strong> & <strong>Engenharia da Computação</strong></p>
