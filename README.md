@@ -97,7 +97,7 @@ const usuario = {
 <div align="center">
 
 ### 💬 Linguagens
-<img src="https://skillicons.dev/icons?i=js,cs,py,arduino,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,ts,arduino,bash&theme=dark" />
 
 ### ⚛️ Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
