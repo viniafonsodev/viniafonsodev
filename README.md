@@ -46,23 +46,23 @@ const usuario = {
 
   stack: {
     frontend: ["React", "Tailwind CSS"],
-    backend:  ["Node.js", "REST APIs"],
-    database: ["PostgreSQL", "MongoDB"],
+    backend:  ["Node.js", "Typescript"],
+    database: ["MySQL", "MongoDB"],
   },
 
   currentlyLearning: ["Design de Sistemas", "Ecosistema C#"],
-  openTo:            ["Full-time", "Open Source"],
+  openTo:            ["Full-time"],
   };
 ```
 
 <br/>
 
-<p>🎓 &nbsp; Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pelo Mackenzie</p>
+<p>🎓 &nbsp; Graduado em <strong>Análise e Desenvolvimento de Sistemas</strong> pela Universidade Presbiteriaan Mackenzie</p>
 <p>💻 &nbsp; Desenvolvo soluções <strong>JavaScript Full-Stack</strong> de APIs REST a interfaces reativas, iniciando também no C#/.NET</p>
-<p>📚 &nbsp; 10+ projetos no GitHub — profundidade acadêmica encontra criatividade prática</p>
+<p>📚 &nbsp; 10+ projetos no GitHub</p>
 <p>🤝 &nbsp; Me pergunte sobre <strong>JS, React, Node.js ou TypeScript</strong></p>
 <p>🌱 &nbsp; Sempre aprendendo — atualmente mergulhando em <strong>C# / .NET</strong> & <strong>Engenharia da Computação</strong></p>
-<p>⚡ &nbsp; Fluente em Inglês e Espanhol</p>
+<p>⚡ &nbsp; Fluente em Inglês e Espanhol - Aprendendo Francês</p>
 
 ---
 
@@ -77,7 +77,7 @@ const usuario = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -97,7 +97,7 @@ const usuario = {
 <div align="center">
 
 ### 💬 Linguagens
-<img src="https://skillicons.dev/icons?i=js,cs,py,java,arduino,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,cs,py,arduino,bash&theme=dark" />
 
 ### ⚛️ Frontend
 <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
@@ -106,7 +106,7 @@ const usuario = {
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,express&theme=dark" />
 
 ### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark" />
 
 ### ⚙️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel,gcp&theme=dark" />
