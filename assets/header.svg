@@ -1,0 +1,204 @@
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated; display:block;">
+
+  <!-- CÉU NOTURNO -->
+  <rect width="800" height="200" fill="#0a0020"/>
+  <rect x="0" y="0"  width="800" height="25" fill="#0a0020"/>
+  <rect x="0" y="25" width="800" height="25" fill="#0d0030"/>
+  <rect x="0" y="50" width="800" height="25" fill="#100040"/>
+  <rect x="0" y="75" width="800" height="15" fill="#120050"/>
+
+  <!-- ESTRELAS -->
+  <rect x="20"  y="6"  width="2" height="2" fill="#ffffff" opacity="0.9"/>
+  <rect x="60"  y="18" width="2" height="2" fill="#ffffff" opacity="0.7"/>
+  <rect x="110" y="4"  width="2" height="2" fill="#ffff88" opacity="0.8"/>
+  <rect x="160" y="14" width="2" height="2" fill="#ffffff" opacity="0.6"/>
+  <rect x="200" y="8"  width="2" height="2" fill="#ffffff" opacity="0.9"/>
+  <rect x="260" y="20" width="2" height="2" fill="#ffff88" opacity="0.7"/>
+  <rect x="310" y="5"  width="2" height="2" fill="#ffffff" opacity="0.8"/>
+  <rect x="370" y="16" width="2" height="2" fill="#ffffff" opacity="0.6"/>
+  <rect x="420" y="10" width="2" height="2" fill="#ffff88" opacity="0.9"/>
+  <rect x="480" y="3"  width="2" height="2" fill="#ffffff" opacity="0.7"/>
+  <rect x="530" y="22" width="2" height="2" fill="#ffffff" opacity="0.8"/>
+  <rect x="580" y="12" width="2" height="2" fill="#ffff88" opacity="0.6"/>
+  <rect x="630" y="6"  width="2" height="2" fill="#ffffff" opacity="0.9"/>
+  <rect x="690" y="18" width="2" height="2" fill="#ffffff" opacity="0.7"/>
+  <rect x="740" y="8"  width="2" height="2" fill="#ffff88" opacity="0.8"/>
+  <rect x="770" y="22" width="2" height="2" fill="#ffffff" opacity="0.6"/>
+  <rect x="90"  y="30" width="2" height="2" fill="#ffffff" opacity="0.5"/>
+  <rect x="340" y="34" width="2" height="2" fill="#ffffff" opacity="0.4"/>
+  <rect x="560" y="32" width="2" height="2" fill="#ffffff" opacity="0.5"/>
+  <rect x="720" y="36" width="2" height="2" fill="#ffffff" opacity="0.4"/>
+
+  <!-- LUA -->
+  <rect x="44"  y="6"  width="24" height="24" fill="#ffffaa"/>
+  <rect x="46"  y="4"  width="20" height="2"  fill="#ffffaa"/>
+  <rect x="44"  y="30" width="24" height="2"  fill="#ffffaa"/>
+  <rect x="42"  y="8"  width="2"  height="20" fill="#ffffaa"/>
+  <rect x="68"  y="8"  width="2"  height="20" fill="#ffffaa"/>
+  <rect x="54"  y="8"  width="14" height="18" fill="#cccc88" opacity="0.4"/>
+
+  <!-- PRÉDIOS FUNDO -->
+  <rect x="0"   y="50"  width="40"  height="150" fill="#1a0a3a"/>
+  <rect x="44"  y="65"  width="30"  height="135" fill="#1a0a3a"/>
+  <rect x="78"  y="45"  width="50"  height="155" fill="#1a0a3a"/>
+  <rect x="132" y="60"  width="35"  height="140" fill="#1a0a3a"/>
+  <rect x="620" y="55"  width="45"  height="145" fill="#1a0a3a"/>
+  <rect x="670" y="40"  width="55"  height="160" fill="#1a0a3a"/>
+  <rect x="730" y="60"  width="40"  height="140" fill="#1a0a3a"/>
+  <rect x="774" y="48"  width="26"  height="152" fill="#1a0a3a"/>
+
+  <!-- PRÉDIO ESQUERDA -->
+  <rect x="170" y="20" width="60" height="180" fill="#2a1060"/>
+  <rect x="176" y="28"  width="8" height="6" fill="#00ddff" opacity="0.9"/>
+  <rect x="190" y="28"  width="8" height="6" fill="#ffdd00" opacity="0.8"/>
+  <rect x="204" y="28"  width="8" height="6" fill="#00ddff" opacity="0.7"/>
+  <rect x="218" y="28"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="176" y="42"  width="8" height="6" fill="#ffdd00" opacity="0.6"/>
+  <rect x="190" y="42"  width="8" height="6" fill="#00ddff" opacity="0.8"/>
+  <rect x="204" y="42"  width="8" height="6" fill="#ffdd00" opacity="0.7"/>
+  <rect x="218" y="42"  width="8" height="6" fill="#2a1060"/>
+  <rect x="176" y="56"  width="8" height="6" fill="#00ddff" opacity="0.9"/>
+  <rect x="190" y="56"  width="8" height="6" fill="#2a1060"/>
+  <rect x="204" y="56"  width="8" height="6" fill="#ffdd00" opacity="0.8"/>
+  <rect x="218" y="56"  width="8" height="6" fill="#00ddff" opacity="0.6"/>
+  <rect x="176" y="70"  width="8" height="6" fill="#ff8800" opacity="0.7"/>
+  <rect x="190" y="70"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="204" y="70"  width="8" height="6" fill="#2a1060"/>
+  <rect x="218" y="70"  width="8" height="6" fill="#ff8800" opacity="0.8"/>
+
+  <!-- PRÉDIO LARGO CENTRO-ESQUERDA -->
+  <rect x="240" y="50" width="80" height="150" fill="#1e0850"/>
+  <rect x="248" y="52" width="64" height="8" fill="#ff0066" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="248" y="66"  width="10" height="8" fill="#ffdd00" opacity="0.8"/>
+  <rect x="264" y="66"  width="10" height="8" fill="#00ddff" opacity="0.9"/>
+  <rect x="280" y="66"  width="10" height="8" fill="#ffdd00" opacity="0.7"/>
+  <rect x="296" y="66"  width="10" height="8" fill="#2a1060"/>
+  <rect x="312" y="66"  width="4"  height="8" fill="#00ddff" opacity="0.6"/>
+  <rect x="248" y="82"  width="10" height="8" fill="#2a1060"/>
+  <rect x="264" y="82"  width="10" height="8" fill="#ffdd00" opacity="0.8"/>
+  <rect x="280" y="82"  width="10" height="8" fill="#2a1060"/>
+  <rect x="296" y="82"  width="10" height="8" fill="#00ddff" opacity="0.9"/>
+  <rect x="312" y="82"  width="4"  height="8" fill="#ffdd00" opacity="0.7"/>
+  <rect x="248" y="98"  width="10" height="8" fill="#ff8800" opacity="0.8"/>
+  <rect x="264" y="98"  width="10" height="8" fill="#2a1060"/>
+  <rect x="280" y="98"  width="10" height="8" fill="#ff8800" opacity="0.9"/>
+  <rect x="296" y="98"  width="10" height="8" fill="#ffdd00" opacity="0.6"/>
+  <rect x="312" y="98"  width="4"  height="8" fill="#2a1060"/>
+
+  <!-- PRÉDIO MAIS ALTO CENTRO -->
+  <rect x="334" y="10" width="50" height="190" fill="#2d1265"/>
+  <rect x="340" y="16"  width="8" height="6" fill="#00ddff" opacity="0.9"/>
+  <rect x="354" y="16"  width="8" height="6" fill="#ffdd00" opacity="0.8"/>
+  <rect x="368" y="16"  width="8" height="6" fill="#00ddff" opacity="0.7"/>
+  <rect x="340" y="30"  width="8" height="6" fill="#ffdd00" opacity="0.6"/>
+  <rect x="354" y="30"  width="8" height="6" fill="#2d1265"/>
+  <rect x="368" y="30"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="340" y="44"  width="8" height="6" fill="#00ddff" opacity="0.8"/>
+  <rect x="354" y="44"  width="8" height="6" fill="#ff8800" opacity="0.7"/>
+  <rect x="368" y="44"  width="8" height="6" fill="#2d1265"/>
+  <rect x="340" y="58"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="354" y="58"  width="8" height="6" fill="#00ddff" opacity="0.8"/>
+  <rect x="368" y="58"  width="8" height="6" fill="#ffdd00" opacity="0.6"/>
+  <rect x="340" y="72"  width="8" height="6" fill="#2d1265"/>
+  <rect x="354" y="72"  width="8" height="6" fill="#ffdd00" opacity="0.7"/>
+  <rect x="368" y="72"  width="8" height="6" fill="#00ddff" opacity="0.9"/>
+  <rect x="340" y="86"  width="8" height="6" fill="#ff8800" opacity="0.8"/>
+  <rect x="354" y="86"  width="8" height="6" fill="#2d1265"/>
+  <rect x="368" y="86"  width="8" height="6" fill="#ff8800" opacity="0.7"/>
+
+  <!-- PRÉDIO CENTRO-DIREITA -->
+  <rect x="396" y="35" width="70" height="165" fill="#1e0848"/>
+  <rect x="400" y="37" width="62" height="6" fill="#00ddff" opacity="0.8">
+    <animate attributeName="opacity" values="0.8;0.2;0.8" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="402" y="50"  width="10" height="8" fill="#ffdd00" opacity="0.9"/>
+  <rect x="418" y="50"  width="10" height="8" fill="#2d1265"/>
+  <rect x="434" y="50"  width="10" height="8" fill="#ffdd00" opacity="0.8"/>
+  <rect x="450" y="50"  width="10" height="8" fill="#00ddff" opacity="0.7"/>
+  <rect x="402" y="66"  width="10" height="8" fill="#00ddff" opacity="0.6"/>
+  <rect x="418" y="66"  width="10" height="8" fill="#ffdd00" opacity="0.9"/>
+  <rect x="434" y="66"  width="10" height="8" fill="#2d1265"/>
+  <rect x="450" y="66"  width="10" height="8" fill="#ff8800" opacity="0.8"/>
+  <rect x="402" y="82"  width="10" height="8" fill="#ffdd00" opacity="0.7"/>
+  <rect x="418" y="82"  width="10" height="8" fill="#00ddff" opacity="0.8"/>
+  <rect x="434" y="82"  width="10" height="8" fill="#ff8800" opacity="0.9"/>
+  <rect x="450" y="82"  width="10" height="8" fill="#2d1265"/>
+  <rect x="402" y="98"  width="10" height="8" fill="#2d1265"/>
+  <rect x="418" y="98"  width="10" height="8" fill="#ff8800" opacity="0.7"/>
+  <rect x="434" y="98"  width="10" height="8" fill="#ffdd00" opacity="0.8"/>
+  <rect x="450" y="98"  width="10" height="8" fill="#00ddff" opacity="0.6"/>
+
+  <!-- PRÉDIO DIREITA ALTO -->
+  <rect x="478" y="25" width="55" height="175" fill="#2a1060"/>
+  <rect x="484" y="27" width="43" height="6" fill="#ff0066" opacity="0.85">
+    <animate attributeName="opacity" values="0.85;0.25;0.85" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="484" y="40"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="498" y="40"  width="8" height="6" fill="#00ddff" opacity="0.8"/>
+  <rect x="512" y="40"  width="8" height="6" fill="#ffdd00" opacity="0.7"/>
+  <rect x="484" y="54"  width="8" height="6" fill="#2a1060"/>
+  <rect x="498" y="54"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="512" y="54"  width="8" height="6" fill="#00ddff" opacity="0.6"/>
+  <rect x="484" y="68"  width="8" height="6" fill="#ff8800" opacity="0.8"/>
+  <rect x="498" y="68"  width="8" height="6" fill="#2a1060"/>
+  <rect x="512" y="68"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="484" y="82"  width="8" height="6" fill="#ffdd00" opacity="0.7"/>
+  <rect x="498" y="82"  width="8" height="6" fill="#00ddff" opacity="0.8"/>
+  <rect x="512" y="82"  width="8" height="6" fill="#ff8800" opacity="0.6"/>
+  <rect x="484" y="96"  width="8" height="6" fill="#2a1060"/>
+  <rect x="498" y="96"  width="8" height="6" fill="#ffdd00" opacity="0.9"/>
+  <rect x="512" y="96"  width="8" height="6" fill="#2a1060"/>
+
+  <!-- PRÉDIO DIREITA LARGO -->
+  <rect x="546" y="45" width="65" height="155" fill="#1e0848"/>
+  <rect x="550" y="47" width="57" height="6" fill="#ffdd00" opacity="0.7">
+    <animate attributeName="opacity" values="0.7;0.15;0.7" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="552" y="60"  width="10" height="8" fill="#00ddff" opacity="0.9"/>
+  <rect x="568" y="60"  width="10" height="8" fill="#ffdd00" opacity="0.8"/>
+  <rect x="584" y="60"  width="10" height="8" fill="#00ddff" opacity="0.7"/>
+  <rect x="600" y="60"  width="6"  height="8" fill="#ffdd00" opacity="0.6"/>
+  <rect x="552" y="76"  width="10" height="8" fill="#ffdd00" opacity="0.6"/>
+  <rect x="568" y="76"  width="10" height="8" fill="#1e0848"/>
+  <rect x="584" y="76"  width="10" height="8" fill="#ff8800" opacity="0.9"/>
+  <rect x="600" y="76"  width="6"  height="8" fill="#00ddff" opacity="0.8"/>
+  <rect x="552" y="92"  width="10" height="8" fill="#ff8800" opacity="0.7"/>
+  <rect x="568" y="92"  width="10" height="8" fill="#ffdd00" opacity="0.9"/>
+  <rect x="584" y="92"  width="10" height="8" fill="#1e0848"/>
+  <rect x="600" y="92"  width="6"  height="8" fill="#ffdd00" opacity="0.7"/>
+
+  <!-- CALÇADA -->
+  <rect x="0"   y="170" width="800" height="30" fill="#0d0030"/>
+  <rect x="0"   y="166" width="800" height="6"  fill="#1a0850"/>
+
+  <!-- REFLEXOS NEON -->
+  <rect x="240" y="172" width="80" height="4" fill="#ff0066" opacity="0.3">
+    <animate attributeName="opacity" values="0.3;0.1;0.3" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="170" y="174" width="60" height="2" fill="#00ddff" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.05;0.2" dur="2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="478" y="172" width="55" height="4" fill="#ff0066" opacity="0.25">
+    <animate attributeName="opacity" values="0.25;0.08;0.25" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="396" y="174" width="70" height="2" fill="#00ddff" opacity="0.2">
+    <animate attributeName="opacity" values="0.2;0.05;0.2" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- NOME -->
+  <text x="400" y="152" fill="#ff8c00" font-size="42"
+        text-anchor="middle" font-family="monospace" font-weight="bold"
+        letter-spacing="4px" opacity="0.88">
+    Vinícius
+    <animate attributeName="opacity" values="0;0.88" dur="1.2s" fill="freeze"/>
+  </text>
+  <text x="400" y="165" fill="#ffaa44" font-size="10"
+        text-anchor="middle" font-family="monospace" letter-spacing="3"
+        opacity="0.7">
+    DESENVOLVEDOR FULL-STACK JAVASCRIPT
+    <animate attributeName="opacity" values="0;0.7" dur="1s" begin="0.8s" fill="freeze"/>
+  </text>
+
+</svg>

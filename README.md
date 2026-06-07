@@ -3,7 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0d2137,100:1a3a5c&height=220&section=header&text=Vinícius&fontSize=65&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full-Stack%20JavaScript%20%7C%20Analista%20de%20Sistemas%20&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+  <img src="./assets/banner.svg" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
