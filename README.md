@@ -171,11 +171,5 @@ const usuario = {
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,60:0d2137,100:0d1117&height=130&section=footer" width="100%"/>
-
-_"First, solve the problem. Then, write the code."_ — John Johnson
-
-**Feito com muito café ☕**
-
+  <img src="./assets/footer.svg" width="100%"/>
 </div>
