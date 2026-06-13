@@ -121,7 +121,7 @@ const usuario = {
 
 <div align="center">
 
-<img src="./assets/frame-top.svg" width="700"/>
+<img src="./assets/frame-top.svg" width="100%"/>
 <table width="700">
   <tr>
     <td>
@@ -132,7 +132,7 @@ const usuario = {
     </td>
   </tr>
 </table>
-<img src="./assets/frame-bottom.svg" width="700"/>
+<img src="./assets/frame-bottom.svg" width="100%"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
