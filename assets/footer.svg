@@ -140,14 +140,8 @@
   <text x="400" y="88" fill="#ff8c00" font-size="13"
         text-anchor="middle" font-family="monospace" font-weight="bold"
         letter-spacing="2px" opacity="0.85">
-    Feito com ♥ e muito ☕ · Vinícius
+    Feito com muito ☕ · Vinícius
     <animate attributeName="opacity" values="0;0.85" dur="1.2s" fill="freeze"/>
-  </text>
-  <text x="400" y="100" fill="#ffaa44" font-size="9"
-        text-anchor="middle" font-family="monospace" letter-spacing="2"
-        opacity="0.6">
-    "Primeiro, resolva o problema. Depois, escreva o código."
-    <animate attributeName="opacity" values="0;0.6" dur="1s" begin="0.7s" fill="freeze"/>
   </text>
 
 </svg>
