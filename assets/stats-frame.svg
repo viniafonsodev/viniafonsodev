@@ -1,0 +1,86 @@
+<svg width="700" height="220" viewBox="0 0 700 220" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated; display:block;">
+
+  <!-- FUNDO GERAL -->
+  <rect width="700" height="220" fill="#0a0020"/>
+
+  <!-- GRADE DE PONTOS -->
+  <pattern id="dots" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+    <circle cx="1" cy="1" r="0.6" fill="#2a1060" opacity="0.5"/>
+  </pattern>
+  <rect width="700" height="220" fill="url(#dots)"/>
+
+  <!-- MOLDURA PIXEL ART EXTERNA -->
+  <rect x="0"   y="0"   width="8" height="8" fill="#ff8c00"/>
+  <rect x="692" y="0"   width="8" height="8" fill="#ff8c00"/>
+  <rect x="0"   y="212" width="8" height="8" fill="#ff8c00"/>
+  <rect x="692" y="212" width="8" height="8" fill="#ff8c00"/>
+  <rect x="8"   y="0"   width="684" height="4" fill="#ff8c00"/>
+  <rect x="8"   y="216" width="684" height="4" fill="#ff8c00"/>
+  <rect x="8"   y="4"   width="684" height="2" fill="#ffaa44" opacity="0.5"/>
+  <rect x="8"   y="214" width="684" height="2" fill="#ffaa44" opacity="0.5"/>
+  <rect x="0"   y="8"   width="4" height="204" fill="#ff8c00"/>
+  <rect x="696" y="8"   width="4" height="204" fill="#ff8c00"/>
+  <rect x="4"   y="8"   width="2" height="204" fill="#ffaa44" opacity="0.5"/>
+  <rect x="694" y="8"   width="2" height="204" fill="#ffaa44" opacity="0.5"/>
+  <rect x="8"   y="8"   width="4" height="4" fill="#ffaa44"/>
+  <rect x="688" y="8"   width="4" height="4" fill="#ffaa44"/>
+  <rect x="8"   y="208" width="4" height="4" fill="#ffaa44"/>
+  <rect x="688" y="208" width="4" height="4" fill="#ffaa44"/>
+
+  <!-- LABEL TOPO -->
+  <rect x="260" y="0" width="180" height="14" fill="#0a0020"/>
+  <rect x="262" y="2" width="176" height="10" fill="#ff8c00" opacity="0.15"/>
+  <text x="350" y="11" fill="#ff8c00" font-size="8"
+        text-anchor="middle" font-family="monospace" font-weight="bold" letter-spacing="2">
+    ★ GITHUB STATS ★
+  </text>
+
+  <!-- CARD ESQUERDA (stats geral) -->
+  <rect x="16"  y="18"  width="326" height="190" fill="#0d0030"/>
+  <rect x="16"  y="18"  width="326" height="2" fill="#00ddff" opacity="0.8"/>
+  <rect x="16"  y="206" width="326" height="2" fill="#00ddff" opacity="0.8"/>
+  <rect x="16"  y="18"  width="2" height="190" fill="#00ddff" opacity="0.8"/>
+  <rect x="340" y="18"  width="2" height="190" fill="#00ddff" opacity="0.8"/>
+  <rect x="16"  y="18"  width="6" height="6" fill="#00ddff"/>
+  <rect x="336" y="18"  width="6" height="6" fill="#00ddff"/>
+  <rect x="16"  y="202" width="6" height="6" fill="#00ddff"/>
+  <rect x="336" y="202" width="6" height="6" fill="#00ddff"/>
+  <image href="https://github-readme-stats.vercel.app/api?username=viniafonsodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0030&title_color=ff8c00&icon_color=00ddff&text_color=ffaa44"
+         x="20" y="22" width="318" height="182"/>
+
+  <!-- CARD DIREITA (top langs) -->
+  <rect x="358" y="18"  width="326" height="190" fill="#0d0030"/>
+  <rect x="358" y="18"  width="326" height="2" fill="#00ddff" opacity="0.8"/>
+  <rect x="358" y="206" width="326" height="2" fill="#00ddff" opacity="0.8"/>
+  <rect x="358" y="18"  width="2" height="190" fill="#00ddff" opacity="0.8"/>
+  <rect x="682" y="18"  width="2" height="190" fill="#00ddff" opacity="0.8"/>
+  <rect x="358" y="18"  width="6" height="6" fill="#00ddff"/>
+  <rect x="678" y="18"  width="6" height="6" fill="#00ddff"/>
+  <rect x="358" y="202" width="6" height="6" fill="#00ddff"/>
+  <rect x="678" y="202" width="6" height="6" fill="#00ddff"/>
+  <image href="https://github-readme-stats.vercel.app/api/top-langs/?username=viniafonsodev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d0030&title_color=ff8c00&text_color=ffaa44"
+         x="362" y="22" width="318" height="182"/>
+
+  <!-- DIVISOR CENTRAL -->
+  <rect x="344" y="18"  width="12" height="4"  fill="#ff8c00"/>
+  <rect x="344" y="206" width="12" height="4"  fill="#ff8c00"/>
+  <rect x="348" y="22"  width="4"  height="184" fill="#ff8c00" opacity="0.3"/>
+
+  <!-- DETALHES CANTOS ORNAMENTAIS -->
+  <rect x="8"   y="8"   width="8" height="2" fill="#ff8c00" opacity="0.5"/>
+  <rect x="8"   y="8"   width="2" height="8" fill="#ff8c00" opacity="0.5"/>
+  <rect x="684" y="8"   width="8" height="2" fill="#ff8c00" opacity="0.5"/>
+  <rect x="690" y="8"   width="2" height="8" fill="#ff8c00" opacity="0.5"/>
+  <rect x="8"   y="210" width="8" height="2" fill="#ff8c00" opacity="0.5"/>
+  <rect x="8"   y="204" width="2" height="8" fill="#ff8c00" opacity="0.5"/>
+  <rect x="684" y="210" width="8" height="2" fill="#ff8c00" opacity="0.5"/>
+  <rect x="690" y="204" width="2" height="8" fill="#ff8c00" opacity="0.5"/>
+
+  <!-- RODAPÉ LABEL -->
+  <rect x="280" y="210" width="140" height="10" fill="#0a0020"/>
+  <text x="350" y="218" fill="#ffaa44" font-size="7"
+        text-anchor="middle" font-family="monospace" letter-spacing="1" opacity="0.7">
+    INSERT COIN TO CONTINUE
+  </text>
+
+</svg>

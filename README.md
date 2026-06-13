@@ -120,20 +120,7 @@ const usuario = {
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=viniafonsodev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniafonsodev&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" />
-    </td>
-  </tr>
-</table>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=viniafonsodev&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7c45&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" />
-
+  <img src="./assets/stats-frame.svg" width="700"/>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
