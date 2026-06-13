@@ -1,5 +1,4 @@
 
-<div style="border-radius: var(--border-radius-lg); overflow:hidden; border: 0.5px solid #444; image-rendering: pixelated;">
 <svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg" style="image-rendering:pixelated; display:block;">
 
   <!-- CÉU / FUNDO -->
@@ -152,4 +151,3 @@
   </text>
 
 </svg>
-</div>
